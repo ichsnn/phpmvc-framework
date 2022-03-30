@@ -1,0 +1,16 @@
+{
+    "name": "ichsann/phpmvc-framework",
+    "authors": [
+        {
+            "name": "Ichsan Nulmuhlis",
+            "email": "ichsan.nulmuhlis@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {},
+    "license": "MIT"
+}
