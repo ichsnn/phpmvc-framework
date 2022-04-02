@@ -4,14 +4,14 @@
     <div class="row mb-3">
         <div class="col">
             <div class="form-group">
-                <label for="first-name" class="form-label">First Name</label>
-                <input type="text" class="form-control" name="first-name" id="last-name">
+                <label for="firstname" class="form-label">First Name</label>
+                <input type="text" class="form-control" name="firstname" id="firstname">
             </div>
         </div>
         <div class="col">
             <div class="form-group">
-                <label for="last-name" class="form-label">Last Name</label>
-                <input type="text" class="form-control" name="last-name" id="last-name">
+                <label for="lastname" class="form-label">Last Name</label>
+                <input type="text" class="form-control" name="lastname" id="lastname">
             </div>
         </div>
     </div>
